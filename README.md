@@ -2,6 +2,8 @@
 
 A sample application to demonstrate how you can use the AppDynamics python agent with a java proxy running on a seperate host 
 
+![A picture showing an AppDynamics flowmap between a tier called frontend and a redis backend](./flowmap.png)
+
 Learn more at [Python Agent Configuration in a Containerized Environment](https://docs.appdynamics.com/21.6/en/application-monitoring/install-app-server-agents/python-agent/python-agent-configuration-in-a-containerized-environment)
 
 # Requirements
